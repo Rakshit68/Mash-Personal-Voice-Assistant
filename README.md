@@ -1,5 +1,9 @@
 # Mash: Personal Voice Assistant
 
+## Screenshot
+<img src="mash.png"
+     alt="Markdown Monster icon"/>
+
 ## Overview
 
 **Mash** is a personal voice assistant designed for ease of use, enabling users to perform tasks through simple voice commands. The application can shut down the laptop/PC, take notes, set reminders, and more, enhancing productivity and simplifying daily activities.
